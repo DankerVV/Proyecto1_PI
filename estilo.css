@@ -8,6 +8,7 @@ h2, h3 {
     color: rgb(255, 255, 255);
     font-weight: bold;
     font-size: 30px;
+    text-align: center;
 }
 
 p {
@@ -16,4 +17,27 @@ p {
     font-weight:normal;
     text-align:justify;
     width: 700px;
+}
+
+.header {
+    padding: 20px;
+    text-align: center;
+}
+
+.header-title {
+    color: rgb(172, 239, 131);
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+
+.header-logo {
+    width: 100px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.paragraph{
+    text-align: center;
+    width: auto;
 }
